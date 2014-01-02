@@ -26,6 +26,7 @@ muflax-chronic
 multi_json
 mysql
 net-http-persistent
+org-ruby
 pg
 posix-spawn
 pygments.rb

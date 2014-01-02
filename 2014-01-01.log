@@ -1,0 +1,20 @@
+* Installed Xubuntu
+* Changed /etc/default/keyboard to ctrl:nocaps
+* Delete default home directories
+* Copied old non-dot-files from /home/ziarkaen to /home/ben
+* Created conf symlinks
+* Changed panels
+* Change shortcuts in Settings Manager -> Window Manager
+* cat projects/install/apt-package-list | xargs sudo apt-get -y install
+* Sign in to Chromium
+* Prompted to create new keyring: Default
+* symlink dmenu scripts to /usr/local/bin
+* in Settings -> Keyboard
+** Dmenu shortcut 
+** xscreensaver-command -activate, -lock
+** snapshot
+* Reload library in Quodlibet
+* Change download location in chromium
+* Settings -> Session and Autostart
+** Guake, guake settings
+* Settings -> Notifications 2 seconds, translucent
